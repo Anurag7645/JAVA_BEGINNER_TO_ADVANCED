@@ -12,7 +12,7 @@ public class Hollow_Rectangle {
         {
             for(int j=1;j<=m;j++)
             {
-                if((i==1||i==n||j==1||j==m){
+                if((i==1||i==n||j==1||j==m)){
                 System.out.print("*");
                 }
                 else{
