@@ -1,4 +1,4 @@
-package JAVA_BEGINNER_TO_ADVANCED.PATTERNS;
+package PATTERNS;
 import java.util.Scanner;
 public class Half_Pyramid
 {
