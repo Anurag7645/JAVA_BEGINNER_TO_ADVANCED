@@ -1,3 +1,4 @@
+package JavaPrograms_lab;
 import java.util.Scanner;
 class primeChecker {
     public static void main(String[] args) {
@@ -25,3 +26,5 @@ class primeChecker {
         return true;
     }
 }
+
+
