@@ -1,3 +1,4 @@
+import java.util.HashMap;
 class Solution {
     public int findLeastNumOfUniqueInts(int[] arr, int k) {
         Map<Integer, Integer> count = new HashMap<>();
